@@ -4,7 +4,7 @@ At this notebook you will be able to verify what kinds of crimes or violence hap
 
 The data analysis will present some patterns about where these kinds of crimes happens and how frequently.
 
-All datasets are in fip file and the geojson file is available too.
+All datasets are in zip file and the geojson file is available too.
 
 Metadate is on notebook.
 
