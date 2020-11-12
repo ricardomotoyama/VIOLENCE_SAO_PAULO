@@ -1,8 +1,8 @@
-# VIOLENCE AND OTHER KIND OF CRIMES AT SÃO PAULO
+# VIOLENCE AND OTHERS KINDS OF CRIMES AT SÃO PAULO
 
-At this notebook you will be able to verify what kind of crimes or violence happens by neighborhoods from São Paulo.
+At this notebook you will be able to verify what kinds of crimes or violence happens by neighborhoods from São Paulo.
 
-The data analysis will present some patterns about where these kind of crime happens and how frequently.
+The data analysis will present some patterns about where these kinds of crimes happens and how frequently.
 
 All datasets are in fip file and the geojson file is available too.
 
