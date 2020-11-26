@@ -4,9 +4,11 @@ At this notebook you will be able to verify what kinds of crimes or violence hap
 
 The data analysis will present some patterns about where these kinds of crimes happens and how frequently.
 
+I did some video about this study and you can see it on YouTube: https://www.youtube.com/watch?v=ogUV8-uv-LE
+
 All datasets are in zip file and the geojson file is available too.
 
-Metadate is on notebook.
+Metadate is on notebook. If you don't have Anaconda installed in your computer try Colab from Google and run this notebook.
 
 Well, enjoy it!!
 
