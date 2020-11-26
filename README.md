@@ -4,7 +4,7 @@ At this notebook you will be able to verify what kinds of crimes or violence hap
 
 The data analysis will present some patterns about where these kinds of crimes happens and how frequently.
 
-I did some video about this study and you can see it on YouTube: https://www.youtube.com/watch?v=ogUV8-uv-LE
+I made a video about this study and you can see it on YouTube: https://www.youtube.com/watch?v=ogUV8-uv-LE
 
 All datasets are in zip file and the geojson file is available too.
 
